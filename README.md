@@ -1,2 +1,2 @@
 # KASIMSALMANI
-This is my project Repository
+This is my project Git Repository
